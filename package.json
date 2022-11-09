@@ -1,0 +1,22 @@
+{
+  "name": "splite-name",
+  "version": "1.0.0",
+  "description": "to spliting name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayat9o9/package.git"
+  },
+  "keywords": [
+    "splite-name"
+  ],
+  "author": "ayat khalid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayat9o9/package/issues"
+  },
+  "homepage": "https://github.com/ayat9o9/package#readme"
+}
