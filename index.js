@@ -1,5 +1,9 @@
 function splitName(name) {
-  return name.split(" ");
+  if (typeof name === "string") {
+    return name.split(" ");
+  } else {
+    return;
+  }
 }
 
 module.exports = splitName;
